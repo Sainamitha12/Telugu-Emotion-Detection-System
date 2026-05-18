@@ -90,12 +90,17 @@ The system predicts emotions such as:
 - Neutral
 
 ---
+## Project Screenshots
+
+### Model Comparison Graph
+![Model Comparison](model_comparison.png)
+
 
 ## Files Included
 - `Emotion.ipynb` → Main project notebook
 - `telugu_emotion_dataset.csv` → Dataset
+- `requirements.txt` → Required Python libraries
 - `README.md` → Project documentation
-
 ---
 
 ## How to Run the Project
